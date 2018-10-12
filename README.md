@@ -1,6 +1,7 @@
 # 一言 API (Hitokoto/ヒトコト)
 基于 PHP 的一言 API (Hitokoto/ヒトコト)，非使用数据库（不依赖任何在线API和本地数据库调用一言）。
 > 项目官方博客说明 [FlyingSky's Blog](https://blog.flyingsky.ml/archives/174)
+> |
 > 以下内容均来源于 [一言 API (Hitokoto/ヒトコト) - OWUcat](https://owucat.top/archives/167) 。
 ## 什么是一言
 动漫也好、小说也好、网络也好，不论在哪里，我们总会看到有那么一两个句子能穿透你的心。「一言」就好似一个公开的摘抄本，我们在此记录那些让人一眼就有所感触的短句，并通过公共 API 的形式使你能够在自己的项目中调用它们。
