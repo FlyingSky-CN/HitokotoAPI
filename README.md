@@ -33,4 +33,4 @@ js|返回函数名为 hitokoto 的 JavaScript 脚本
 > 个人博客：[FlyingSky's Blog](https://blog.flyingsky.ml/)
 ### OWUcat
 测试 / [公共API](https://owucat.top/archives/167)
-> 个人博客：[OWUcat](https://OWUcat.top/)
+> 个人博客：[OWUcat.top](https://OWUcat.top/)
